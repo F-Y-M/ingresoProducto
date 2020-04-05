@@ -1,0 +1,26 @@
+[
+        {
+            "id": 0,
+            "title": "espada",
+            "description": "esta es un arma japonesa que bla bla bla bla bla bla bla bla",
+            "done" : false
+        },
+        {
+            "id": 1,
+            "title": "pistola",
+            "description": "pistola semi-automatica que sirve para pegar tiros bla bla bla",
+            "done" : false
+        },
+        {
+            "id": 2,
+            "title": "ballesta",
+            "description": "loren ipsum dolor no se que carajos seguia despues bla bla bla",
+            "done" : false
+        },
+        {
+            "id": 3,
+            "title": "sable pistola",
+            "description": "sacado de la franquisia de juegos mas alabado, a un nerd se le",
+            "done" : false
+        }
+]
